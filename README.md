@@ -1,7 +1,8 @@
 # exposed
 
-> [!TIP] STATUS:
-> This project use: KTOR, EXPOSED, H2, DOCKER
+> [!TIP]
+> **STATUS:**
+> This project uses: KTOR, EXPOSED, H2, DOCKER
 
 
 This project was created and using the [Ktor Project Generator](https://start.ktor.io).
