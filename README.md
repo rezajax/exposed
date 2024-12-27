@@ -1,9 +1,15 @@
 # exposed
 
-> [!TIP] Rez Callout:
+> [!TIP]
 > **STATUS:**
 > This project uses: KTOR, EXPOSED, H2, DOCKER
 
+### STATUS:
+This project uses:
+- **KTOR**
+- **EXPOSED**
+- **H2**
+- **DOCKER**
 
 This project was created and using the [Ktor Project Generator](https://start.ktor.io).
 
