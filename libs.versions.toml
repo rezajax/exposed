@@ -1,0 +1,18 @@
+[versions]
+exposed = "0.57.0"
+kotlin_version = "2.1.0"
+ktor_version = "3.0.2"
+logback_version = "1.5.15"
+
+
+[libraries]
+ktor-core-jvm = { module = "io.ktor:ktor-server-core-jvm", version.ref = "ktor_version" }
+ktor-server-netty-jvm = { module = "io.ktor:ktor-server-netty-jvm", version.ref = "ktor_version" }
+ktor-server-config-yaml-jvm = { module = "io.ktor:ktor-server-config-yaml-jvm", version.ref = "ktor_version" }
+ktor-server-test-host-jvm = { module = "io.ktor:ktor-server-test-host-jvm", version.ref = "ktor_version" }
+kotlin-test-junit = { module = "org.jetbrains.kotlin:kotlin-test-junit", version.ref = "kotlin_version" }
+
+logback-classic = { module = "ch.qos.logback:logback-classic", version.ref = "logback_version" }
+
+exposed-core = { module = "org.jetbrains.exposed:exposed-core", version.ref = "exposed" }
+exposed-jdbc = { module = "org.jetbrains.exposed:exposed-jdbc", version.ref = "exposed" }
