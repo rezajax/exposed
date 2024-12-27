@@ -1,6 +1,6 @@
 # exposed
 
-> [!TIP]
+> [!TIP] Rez Callout:
 > **STATUS:**
 > This project uses: KTOR, EXPOSED, H2, DOCKER
 
